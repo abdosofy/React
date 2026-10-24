@@ -1,0 +1,20 @@
+export const products = [
+    {
+        Id:109,
+        name:"Polo-shirt",
+        price:300,
+        color:"red",
+    },
+    {
+        Id:200,
+        name:"Jacket",
+        price:500,
+        color:"black"
+    },
+    {
+        Id:160,
+        name:"T-shirt",
+        price:250,
+        color:"blue"
+    },
+];
